@@ -1,2 +1,2 @@
 # pdf
-aboutus
+This is introduction of GC.
